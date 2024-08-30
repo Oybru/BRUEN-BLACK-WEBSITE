@@ -1,0 +1,29 @@
+
+April 30 2024
+
+Removed paginator circular wheel
+Removed unnecessary template pages
+Adjusted Next and Prev to be displayed as arrows
+
+May 4, 2024
+
+Removed background for favicon
+Removed "services provided" section on homepage
+Trying to remove the animations associated with the About Me scrolldown (Where is animate-img coming from?)
+Found it! main.js file. Updating the animate-img function and tweaking the total duration, start delay and end delay 
+Populated portfolio section, deleted then re-added the filter option for displaying projects
+
+May 6, 2024
+
+Ideas:
+*	In each subsection, add a "Work in Progress" section detailing things I'm currently working on.
+* 	In the About Me section, add in a "Elevator Pitch" section and a "Long Version" section that's clickable from About Me section, currently writing those right now
+*	 For the landing page, the top index menu gets washed out by the images, either make the images smaller so that the menu is below it, ORR make the index menu opaque (EASIER!!!)
+
+- Updated the logo at the bottom to show double Bs
+
+June 8, 2024
+
+Added in text to Bruen Black Design logo
+Edited header of About Me section
+
